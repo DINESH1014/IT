@@ -13,6 +13,7 @@ public class Sampletraining {
 		WebDriver driver = new ChromeDriver();
 		
 		driver.manage().window().maximize();
+		System.out.println("Dinesh");
 		
 	//	Question 1
 		
